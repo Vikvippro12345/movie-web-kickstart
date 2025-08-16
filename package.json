@@ -61,5 +61,11 @@
     "prettier-plugin-tailwindcss": "^0.5.4",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.2.2"
+  },
+  "overrides": {
+    "uuid": "^9.0.0",
+    "debug": "^4.3.1",
+    "rollup-plugin-inject": "@rollup/plugin-inject",
+    "sourcemap-codec": "@jridgewell/sourcemap-codec"
   }
 }
